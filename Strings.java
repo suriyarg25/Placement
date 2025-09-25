@@ -10,6 +10,6 @@ public class Strings{
         System.out.println("Hello, "+str1);
         int strlen = str1.length();
         System.out.println("The length of your name is: "+strlen);
-        Hi da
+        
     }
 }
