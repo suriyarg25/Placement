@@ -12,4 +12,4 @@ public class Strings{
         System.out.println("The length of your name is: "+strlen);
 
     }
-} Suriya 
+} Suriya da
